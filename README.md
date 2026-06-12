@@ -1,2 +1,1 @@
-# airline-delay-prediction
-Airline Delay Prediction using Machine Learning to analyze historical flight data and predict potential delays, helping improve travel planning and operational efficiency.
+This project predicts airline flight delays using machine learning techniques based on historical flight data. The model analyzes key features such as departure time, airline, weather, and route to predict whether a flight will be delayed or on time.
